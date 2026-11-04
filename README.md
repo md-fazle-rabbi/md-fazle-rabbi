@@ -1,20 +1,26 @@
 # Fazle Rabbi
 
-Freelance **AI Engineer** specializing in secure AI systems. I build production-grade products end to end: APIs, data layer, agents, dashboards and the UI on top. Multi-tenant RAG, agent platforms, LLM security and automation.
+Freelance **AI Engineer** specializing in secure AI systems and workflow automation. I've built AI and workflow automation for companies doing seven and eight figures. Multi-tenant RAG, agent platforms and LLM security, from the database to the web app.
 
 ## Tech
 
-**Backend & AI:** Python • FastAPI • LangGraph • LangSmith • Claude API • Pydantic v2
+**AI & Agents:** Python • LangGraph • RAG (hybrid search, CRAG) • RAGAS • LiteLLM • Claude API • Gemini • Voyage AI • MCP
+
+**Backend & Data:** FastAPI • Pydantic v2 • PostgreSQL (Row Level Security) • pgvector • Qdrant • Redis • Supabase
 
 **Frontend:** TypeScript • React • Next.js
 
-**Data & Infra:** PostgreSQL • pgvector • Qdrant • Redis • Supabase • Docker • OpenTelemetry
+**Security & Governance:** Keycloak (OAuth2) • OPA • Presidio • garak • OWASP LLM Top 10 • Trivy • CodeQL
+
+**Observability & Testing:** Langfuse • OpenTelemetry • Locust • Vitest • Playwright
+
+**Infra:** Docker • Docker Compose • GitHub Actions • Render • uv
 
 **Automation:** n8n • Make.com • Zapier
 
 ## What I Do
 
-- Build full-stack AI products, from database and API design to the dashboards and interfaces users actually touch
+- Build AI products from database and API design to the dashboards and interfaces users actually touch
 - Build multi-tenant RAG and agent platforms with row-level security, cited answers and audit trails
 - Harden LLM apps against prompt injection, PII leakage and jailbreaks (OWASP LLM Top 10 aligned)
 - Design compliance-aware AI systems (GDPR, HIPAA, EU AI Act tooling)
@@ -32,11 +38,11 @@ Freelance **AI Engineer** specializing in secure AI systems. I build production-
 
 ## Interests
 
-AI Security • RAG Systems • Agent Architectures • Compliance Engineering
+AI Security • RAG Systems • Agent Architectures • Workflow Automation • Compliance Engineering
 
 ## Open To
 
-Freelance and contract work in AI engineering, full-stack development and automation.
+Freelance and contract work in AI engineering and workflow automation.
 
 ## Contact
 
