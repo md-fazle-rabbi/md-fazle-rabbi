@@ -1,6 +1,6 @@
 # Fazle Rabbi
 
-Freelance **Full-Stack AI Engineer** specializing in secure AI systems. I build production-grade products end to end: APIs, data layer, agents, dashboards and the UI on top. Multi-tenant RAG, agent platforms, LLM security and automation.
+Freelance **AI Engineer** specializing in secure AI systems. I build production-grade products end to end: APIs, data layer, agents, dashboards and the UI on top. Multi-tenant RAG, agent platforms, LLM security and automation.
 
 ## Tech
 
