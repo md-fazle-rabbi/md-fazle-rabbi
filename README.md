@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Fazle Rabbi
 
 Freelance **AI Engineer** specializing in secure production AI systems and workflow automation. Multi-tenant RAG, AI agents and LLM security, from the database to the web app. 50+ clients, 100+ AI agents and 500+ workflows shipped.
@@ -58,4 +57,3 @@ Remote full-time roles, plus freelance and contract work in AI engineering and w
 
 - Email: mfrabbi.ai@gmail.com
 - LinkedIn: https://www.linkedin.com/in/fazle-rabbi-ai/
-EOF
