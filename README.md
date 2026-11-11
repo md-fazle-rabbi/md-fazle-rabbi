@@ -1,6 +1,6 @@
 # Fazle Rabbi
 
-Freelance **AI Engineer** specializing in secure production AI systems and workflow automation. Multi-tenant RAG, AI agents and LLM security, from the database to the web app. 50+ clients, 100+ AI agents and 500+ workflows shipped.
+Freelance **Full-Stack AI Engineer** specializing in secure production AI systems and workflow automation. Multi-tenant RAG, AI agents and LLM security, from the database to the web app. 50+ clients, 100+ AI agents and 500+ workflows shipped.
 
 ## Tech
 
