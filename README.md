@@ -51,7 +51,7 @@ AI Security • AI Red Teaming • RAG Systems • Agent Architectures • Workf
 
 ## Open To
 
-Remote full-time roles, plus freelance and contract work in AI engineering and workflow automation.
+Remote full-time roles, plus freelance and contract work in Full-Stack AI engineering and workflow automation.
 
 ## Contact
 
